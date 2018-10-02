@@ -37,5 +37,4 @@ class Scraper
     scraped_student
     end
   end 
-end 
 
